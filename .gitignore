@@ -1,0 +1,80 @@
+.DS_Store
+.idea
+.vscode
+dump.rdb
+
+# Log files
+*.log
+logs/*
+
+# Django
+*.pot
+*.pyc
+__pycache__/
+__pycache__/*
+db.sqlite3
+db.sqlite3-journal
+local_settings.py
+media
+
+# Byte-compiled / optimized / DLL files
+*$py.class
+*.py[cod]
+
+# C extensions
+*.so
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+.Python
+.eggs/
+.installed.cfg
+MANIFEST
+build/
+develop-eggs/
+dist/
+static/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+pip-wheel-metadata/
+sdist/
+share/python-wheels/
+var/
+wheels/
+thenewboston.tar.gz
+
+# Unit test / coverage reports
+*.cover
+*.py,cover
+.cache
+.coverage
+.coverage.*
+.hypothesis/
+.nox/
+.pytest_cache/
+.tox/
+coverage.xml
+htmlcov/
+nosetests.xml
+
+# pytest
+.pytest_cache
+
+# pyenv
+.python-version
+
+# Environments
+.env
+.venv
+ENV/
+env.bak/
+env/
+venv
+venv.bak/
+venv/
+
+!.gitkeep
