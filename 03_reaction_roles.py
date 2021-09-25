@@ -7,7 +7,7 @@ client = discord.Client()
 async def on_ready():
     print('Ready')
 
-client.run('ODg0MTU1MDg1NDUyNjExNjQ2.YTUXlw.HtHcnxZX8Ke9zGp8tS7Ngyhjg5Q')
+client.run('')
 """
 
 
